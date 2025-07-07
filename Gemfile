@@ -8,7 +8,7 @@ gem "propshaft"
 # gem "sqlite3", ">= 2.1"
 
 group :development, :test do
-  gem "sqlite3", "~> 2.1"
+  gem "sqlite3", "~> 2.7"
 end
 
 group :production do
